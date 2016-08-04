@@ -1,5 +1,5 @@
 # Simulation
-##This repository contains R code for the 6 simulation methods for different purposes.
+##This repository contains self written R code for the 6 simulation methods for different purposes.
 ##1. HMC is a function for sampling the coefficients of the predicting variables, which is the β vector, with logistic likelihood and Normal prior, using Hamiltonian Monte Carlo algorithm with leapfrogs method.
 ##2. MH is a function for sampling the coefficients of the predicting variables, which is the β vector, with logistic likelihood and improper prior 1, using Metropolis-Hastings algorithm.
 ##3. slice is a function for sampling the coefficients of the predicting variables, which is the β vector, with logistic likelihood and improper prior 1, using Slice sampler. 
